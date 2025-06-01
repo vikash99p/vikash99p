@@ -1,4 +1,8 @@
-<img src="https://github.com/Prakash251299/bannerForGithub/blob/main/Banner.jpg" width = "1000" height = "200">
+<img src="https://github.com/user-attachments/assets/74aa9c7c-1ee6-4af6-ab90-7fb603a5d0ba" width = "1000" height = "200">
+
+
+
+
 <h1 align="center">Hi, I'm Vikash Pratap Singh</h1>
 <h3 align="center">A passionate Business Analyst from India</h3>
 
