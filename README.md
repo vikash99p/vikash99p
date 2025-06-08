@@ -2,7 +2,6 @@
 
 
 
-
 <h1 align="center">Hi, I'm Vikash Pratap Singh</h1>
 <h3 align="center">A passionate Business Analyst from India</h3>
 
